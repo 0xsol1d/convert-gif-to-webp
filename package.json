@@ -1,0 +1,16 @@
+{
+  "name": "convert-gif-to-webp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "author": "0xsol1d",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gif2webp-bin": "^5.0.0",
+    "progress": "^2.0.3"
+  }
+}
